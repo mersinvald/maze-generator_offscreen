@@ -1,0 +1,4 @@
+CC=gcc
+CCFLAGS=-I.
+
+labyrinth: 
